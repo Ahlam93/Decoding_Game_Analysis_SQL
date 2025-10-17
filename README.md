@@ -1,4 +1,4 @@
-#  Mentorness SQL Analysis: Decode Gaming Behavior
+# SQL Analysis: Decode Gaming Behavior
 
 ##  Overview
 This project focuses on **decoding player gaming behavior** using **SQL**.  
